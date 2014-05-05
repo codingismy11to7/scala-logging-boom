@@ -1,6 +1,9 @@
 *.class
 *.log
 
+.idea/
+atlassian-ide-plugin.xml
+
 # sbt specific
 .cache/
 .history/
